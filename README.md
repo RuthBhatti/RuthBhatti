@@ -69,8 +69,3 @@ Hello! I'm Ruth Bhatti, a software engineer with a diverse background in softwar
 ## Certifications
 - **Certified Software Quality Engineer (CSQE)**
 - **Licensed Cosmetologist**
-
-## Contact
-For any inquiries or feedback, please contact Ruth Bhatti at:
-**Email:** ruthbhatti55@gmail.com
-**GitHub:** [Ruth Bhatti](https://github.com/ruthbhatti)
