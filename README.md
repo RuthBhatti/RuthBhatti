@@ -41,10 +41,24 @@
 Hello! I'm Ruth Bhatti, a software engineer with a diverse background in software quality engineering, data analysis, customer service, and cosmetology. I am passionate about developing innovative solutions and enhancing user experiences through my work.
 
 ## Skills
-- **Programming Languages:** JavaScript, HTML, CSS, SCSS, React
-- **Tools & Technologies:** Git, Node.js, Express, Axios, React Router
-- **Methodologies:** Agile, Scrum, BEM naming conventions
-- **Others:** API integration, responsive web design, front-end development
+### Programming Languages:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30"/> JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30"/> HTML
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30"/> CSS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="30"/> SCSS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30"/> React
+
+### Tools & Technologies:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="30"/> Git
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30"/> Node.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="30"/> Express
+- <img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="30"/> Axios
+- <img src="https://reactrouter.com/favicon-light.png" alt="React Router" width="30"/> React Router
+
+### Methodologies:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Agile-logo.png" alt="Agile" width="30"/> Agile
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Logo.svg" alt="Scrum" width="30"/> Scrum
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Yandex_bem_logo.svg" alt="BEM" width="30"/> BEM
 
 ## Projects
 - **PawVoyage:** An app designed to help users travel internationally with their pets by providing a step-by-step application process for pet visas and submitting necessary documentation.
