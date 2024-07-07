@@ -32,14 +32,8 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/ruthbhatti" target="blank">
+ <a href="https://linkedin.com/in/ruth-bhatti/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruthbhatti"/>
- </a>
- <a href="https://twitter.com/ruthbhatti" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/ruthbhatti" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ruthbhatti" />
  </a>
 </p>
 
@@ -72,5 +66,5 @@ Hello! I'm Ruth Bhatti, a software engineer with a diverse background in softwar
 
 ## Contact
 For any inquiries or feedback, please contact Ruth Bhatti at:
-- **Email:** bhattibuddy2@gmail.com
+- **Email:** ruthbhatti55@gmail.com
 - **GitHub:** [Ruth Bhatti](https://github.com/ruthbhatti)
